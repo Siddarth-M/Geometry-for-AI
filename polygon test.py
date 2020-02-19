@@ -25,7 +25,6 @@ poly1 = [
         (0, 2),
         (2, 2),
         (2, 0)
-
-    ]
+        ]
 t=point_inside_polygon(2,2,poly1)
 print(t)
