@@ -1,5 +1,5 @@
 def area_poly(poly1):  # Finding area of the polygon using the endpoints
-
+    
     area = 0.0
     n = len(poly1)
     j = n - 1
