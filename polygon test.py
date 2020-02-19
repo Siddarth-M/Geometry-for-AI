@@ -1,4 +1,4 @@
-# determine if a point is inside a given polygon or not
+# determine if a point is inside a given polygon or not.
 # Polygon is a list of (x,y) pairs.
 
 def point_inside_polygon(x,y,poly):
