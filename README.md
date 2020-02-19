@@ -2,7 +2,8 @@
 
 Generalised Intersection of Union of 2 ordered-convex polygons. Inspired from finding IoU of 2 polygons inside a unit circle.
 
-IOU is deefined as the area of intersection over the area of the union of given polygons.
+IOU is defined as the area of intersection over the area of the union of given polygons. The following image from wikimedia illustrates the IOU concept clearly.
 
-![equation](http://latex.codecogs.com/gif.latex?IOU%3D%5Cfrac%7BIntersection%7D%7BUnion%7D) 
+![IOU](https://upload.wikimedia.org/wikipedia/commons/c/c7/Intersection_over_Union_-_visual_equation.png)
+
 
