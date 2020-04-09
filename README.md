@@ -9,3 +9,4 @@ IOU is defined as the area of intersection over the area of the union of given p
 ![IOU](https://upload.wikimedia.org/wikipedia/commons/c/c7/Intersection_over_Union_-_visual_equation.png)
 
 
+I have created a python file that computes the IoU of any 2 given convex polygons, no other conditions! :-)
